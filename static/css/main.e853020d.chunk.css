@@ -1,0 +1,2 @@
+.App,.Carousel{display:flex;flex-direction:column;align-items:center}.Carousel__list{display:flex;list-style:none;padding:0}.Carousel__buttons{display:flex;grid-gap:50px;gap:50px}.Carousel__button{width:70px;height:30px;border-radius:10px;transition:background-color .5s}.Carousel__button:hover{background-color:coral;cursor:pointer}.imagesContainer{overflow:hidden}
+/*# sourceMappingURL=main.e853020d.chunk.css.map */
